@@ -1,0 +1,9 @@
+{
+	"name": "Divya1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca45a22d-ffd4-4645-9426-69a4f60222e9",
+		"tenantId": "e42e0363-3e16-468f-a141-bef37d5b1e55"
+	}
+}
